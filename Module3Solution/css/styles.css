@@ -1,1 +1,38 @@
 
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+  }
+
+#maintext {
+  background-color: yellow;
+  font-size: 
+}
+
+#heading1 {
+  font-size: 2em;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+  position: relative;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'times new roman', serif;
+  color: #557c3e;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+  #collapsable-nav p { /* Collapsed nav menu text */
+    background-color: green;
+    color: black
+    outline: 2px solid black;
+  }
+
